@@ -1,4 +1,5 @@
-Esta sera una prueba rapida, esto acaba de ser una adicion increible
-Habra varias lineas y esto sera solo para comprobar que todo este bien
-Este texto incluye una delecion
-Y esto es una adicion
+Esta que espero no me tome mucho, esto acaba de ser una adicion increible
+Este texto incluye una  alteracion entera
+Y esto un cambio completo de aqui
+Por aqui esto sera diferente tambien
+Y se crearan mas cosas
