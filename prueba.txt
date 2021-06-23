@@ -1,3 +1,4 @@
-Esta sera una prueba rapida
+Esta sera una prueba rapida, esto acaba de ser una adicion increible
 Habra varias lineas y esto sera solo para comprobar que todo este bien
-Se actualizara
+Este texto incluye una delecion
+Y esto es una adicion
